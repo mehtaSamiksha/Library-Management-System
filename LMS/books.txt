@@ -1,0 +1,20 @@
+Harry Potter,J.K. Rowling,1234567890123 3
+The Lord of the Rings,J.R.R. Tolkien,9876543210123 3
+Pride and Prejudice,Jane Austen,5678901234567 7
+To Kill a Mockingbird,Harper Lee,3216549870123 4
+1984,George Orwell,6549873210123 6
+The Great Gatsby,F. Scott Fitzgerald,8529637410123 2
+Moby Dick,Herman Melville,7418529630123 7
+War and Peace,Leo Tolstoy,9638527410123 5
+The Catcher in the Rye,J.D. Salinger,1472583690123 9
+Brave New World,Aldous Huxley,3692581470123 4
+Crime and Punishment,Fyodor Dostoevsky,1593574860123 7
+The Hobbit,J.R.R. Tolkien,7539518520123 3
+Anna Karenina,Leo Tolstoy,8521479630123 5
+Jane Eyre,Charlotte Brontë,2587413690123 5
+Wuthering Heights,Emily Brontë,1478523690123 4
+Les Misérables,Victor Hugo,3691472580123 8
+Don Quixote,Miguel de Cervantes,9517538520123 7
+The Odyssey,Homer,3571598520123 6
+The Iliad,Homer,9513572580123 5
+Frankenstein,Mary Shelley,7532581590123 8
